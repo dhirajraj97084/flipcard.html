@@ -1,0 +1,44 @@
+@media screen and (max-width:800px) {
+    .nav {
+        background: #2874f0;
+        height: 128px;
+    }
+
+    .logo {
+        position: relative;
+        top: -35px;
+    }
+
+    .logo img {
+        height: 28px;
+    }
+
+    ul {
+        position: relative;
+        bottom: 29px;
+        right: -7px;
+        font-size: 19px;
+    }
+
+    input {
+        position: relative;
+        right: 446px;
+        top: 47px;
+        width: 64vw;
+    }
+
+    button {
+        width: 16vw;
+        position: relative;
+        top: 16px;
+        right: 34px;
+    }
+
+    .container img {
+        width: 76vw;
+        margin: 3px 61px;
+    }
+    .boxes{
+        margin: 0px -36px;
+    }
+}
